@@ -1,5 +1,5 @@
 # PORTFOLIO-APP 
-[![Build Status](https://travis-ci.org/dbarochiya/me.svg?branch=master)](https://travis-ci.org/dbarochiya/me)
+
 
 This is the implementaion code.
 
